@@ -3,6 +3,8 @@
 .classpath
 .project
 
+# J'espere c'est le miens
+
 # IntelliJ IDEA
 .idea
 *.iml
